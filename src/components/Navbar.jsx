@@ -25,6 +25,8 @@ export default function Navbar() {
           <div className="hidden md:flex space-x-9 text-sm uppercase tracking-wide text-base-color">
             <a href="#home" className="hover:text-gray-300">Home</a>
             <a href="#projects" className="hover:text-gray-300">Projects</a>
+            <a href="#designs" className="hover:text-gray-300">Designs</a>
+
             <a href="#experiences" className="hover:text-gray-300">Experience</a>
             <a href="#summary" className="hover:text-gray-300">Contact</a>
           </div>
